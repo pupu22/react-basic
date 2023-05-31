@@ -1,9 +1,9 @@
 import { BrowserRouter , useRoutes} from "react-router-dom"
-import Layout from "./嵌套路由/Layout"
-import Login from "./嵌套路由/Login"
-import Article from "./嵌套路由/article"
-import Board from "./嵌套路由/Board"
-import NotFound from "./嵌套路由/NotFound"
+import Layout from "../嵌套路由/Layout"
+import Login from "../嵌套路由/Login"
+import Article from "../嵌套路由/article"
+import Board from "../嵌套路由/Board"
+import NotFound from "../嵌套路由/NotFound"
 
 const routeList = [
   {
